@@ -1,4 +1,4 @@
-Hasan Durmaz’s Security Portfolio 💻 🔐 🛡️
+##Hasan Durmaz’s Security Portfolio 💻 🔐 🛡️
 
 I am a cybersecurity professional with a strong focus on defensive security, vulnerability management, and security operations. I enjoy breaking down complex security problems, prioritizing real risk, and building practical solutions that improve an organization’s security posture. My goal is to contribute to and eventually lead blue team initiatives that defend against modern threats in cloud and enterprise environments.
 
