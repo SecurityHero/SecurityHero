@@ -17,7 +17,7 @@ I am eager to connect with professionals and organizations seeking to strengthen
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program](https://github.com/SecurityHero/Vulnerability-Management-Program/tree/main)**
-- **Programmatic Vulnerability Remediations (PowerShell and BASH)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/SecurityHero/Programmatic-Vulnerability-Remediations/blob/main/README.md)**
 
 ---
 
