@@ -24,13 +24,7 @@ I am eager to connect with professionals and organizations seeking to strengthen
 ## 🚨 Threat Hunting and Security Operations Projects
 
 - **[Threat Hunting Scenario Project 1 – Tor Browser Usage (S0183)](https://github.com/SecurityHero/Tor/blob/main/README.md)**
-- **Threat Hunting Scenario Project 2 – Command and Scripting Interpreter: PowerShell (T1059.001)**
-- **Threat Hunting Scenario Project 3 – Brute Force & Credential Stuffing (T1110.004)**
-- **Threat Hunting Scenario Project 4 – Data Exfiltration (T1027.003)**
-- **Threat Hunting Scenario Project 5 – Phantom APT (T1566, T1059, T1056.001, T1567)**
-
 ---
 
 ## ☁️ Cloud Projects
 
-- **Microsoft Azure Honeypot 🍯**
